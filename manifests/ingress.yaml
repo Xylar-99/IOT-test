@@ -18,4 +18,4 @@ spec:
               service:
                 name: playground
                 port:
-                  number: 8888    
+                  number: 8888 
